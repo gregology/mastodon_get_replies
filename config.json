@@ -1,6 +1,6 @@
 {
   "server": "clar.ke",
-  "home-timeline-length": 200,
-  "max-followings": 80,
+  "home-timeline-length": 500,
+  "max-followings": 200,
   "from-notifications": 1
 }
